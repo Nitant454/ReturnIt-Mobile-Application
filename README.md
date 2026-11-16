@@ -1,4 +1,4 @@
-\# ReturnIt-Mobile-Application
+# ReturnIt-Mobile-Application
 
 
 
@@ -10,41 +10,41 @@ Users submit ownership evidence when claiming an item, and an authorised adminis
 
 
 
-\## Core features
+## Core features
 
-\- User authentication (register, log in, log out, role-based access)
+- User authentication (register, log in, log out, role-based access)
 
-\- Lost and found item reports
+- Lost and found item reports
 
-\- Item search, filtering and rule-based matching
+- Item search, filtering and rule-based matching
 
-\- Ownership verification and claim management
+- Ownership verification and claim management
 
-\- Notifications and claim-related messaging
+- Notifications and claim-related messaging
 
-\- Admin dashboard (web, sharing the same backend)
-
-
-
-\## Tech and architecture
-
-\- Flutter (Dart)
-
-\- MVVM: Views (lib/ui), ViewModels (lib/viewmodels), Models (lib/models), Repositories and Services (lib/data)
+- Admin dashboard (web, sharing the same backend)
 
 
 
-\## Project structure
+## Tech and architecture
 
-\- `lib/` - application source code
+- Flutter (Dart)
 
-\- `docs/` - architecture diagrams and documentation
-
-\- `designs/` - Figma prototype screenshots
+- MVVM: Views (lib/ui), ViewModels (lib/viewmodels), Models (lib/models), Repositories and Services (lib/data)
 
 
 
-\## Status
+## Project structure
+
+- `lib/` - application source code
+
+- `docs/` - architecture diagrams and documentation
+
+- `designs/` - Figma prototype screenshots
+
+
+
+## Status
 
 Project proposal and prototype design phase. Application development is in progress.
 
